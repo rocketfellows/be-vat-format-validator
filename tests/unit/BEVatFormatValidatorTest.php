@@ -3,6 +3,7 @@
 namespace rocketfellows\BEVatFormatValidator\tests\unit;
 
 use PHPUnit\Framework\TestCase;
+use rocketfellows\BEVatFormatValidator\BEVatFormatValidator;
 
 class BEVatFormatValidatorTest extends TestCase
 {
