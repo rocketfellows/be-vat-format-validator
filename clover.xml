@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1677945794">
-  <project timestamp="1677945794">
+<coverage generated="1678008278">
+  <project timestamp="1678008278">
     <file name="/app/src/BEVatFormatValidator.php">
       <class name="rocketfellows\BEVatFormatValidator\BEVatFormatValidator" namespace="global">
         <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
